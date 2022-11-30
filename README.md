@@ -8,10 +8,14 @@ Accordingly, there is need for a complex involvement bringing together advanced 
 The model which we will be building would help Hospitals and other healthcare facilities to predict the LOS in hospitals which in turn benefits the hospitals with increased efficiency reduced material cost and patients’ satisfaction. This would also replace the manual consultation of Doctors and Physicians for predicting LOS.
 
 Limitations
-Due to poor dataset we got an accuracy of 42.54%, perhaps with more real-time time data we can get could accuracy and better prediction of LOS.
-With more real-time data from Hospitals and other consultancies a better model can be built which could enhance more the precision, recall and accuracy of the model.
-Lessons Learned
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Learned to work on highly imbalanced and biased data with bad quality predictors.
-With the knowledge of more complex machine learning models and also deep learning concepts to improve model performance for this kind of data.
+* Due to poor dataset we got an accuracy of 42.54%, perhaps with more real-time time data we can get could accuracy and better prediction of LOS.
+* With more real-time data from Hospitals and other consultancies a better model can be built which could enhance more the precision, recall and accuracy of the model.
+
+Lessons Learned
+----------------------------------------------------------------------------------------------------------------------------------------------------
+* What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+* Learned to work on highly imbalanced and biased data with bad quality predictors.
+  With the knowledge of more complex machine learning models and also deep learning concepts to improve model performance for this kind of data.
